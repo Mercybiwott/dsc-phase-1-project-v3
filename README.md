@@ -35,6 +35,9 @@ However this project has utilized only 10 columns that is relevant in aswering t
 2. Focus on safety procedures and trainings on critical phases of flight. Communicate safety procedures to passengers, as well as tran the cabin crue on first aid to affected individuals.
 3. Invest on latest aircraft, with highest safety standards and technologies.
 
+### Tablueau visuzlization.
+attached is a link to my tableau visualization.
+https://public.tableau.com/views/Book1_17177653918220/AviationAccidentAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
 
