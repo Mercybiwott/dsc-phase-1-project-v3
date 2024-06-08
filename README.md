@@ -22,6 +22,10 @@ A detailed analysis of aircraft model, weather condition, number of engines and 
 However this project has utilized only 10 columns that is relevant in aswering the project object. The study puts heavy focus Manufacture based attributes such as the make and model, number of engines in an aircraft as well as other sitautional variables such as the broad phase of flight, the weather condition, injury severity and the total death count.[dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 
 ### Data Visualization
+This study utilized a number of visualiation to present data, this visualizations, inlude:
+ Histogram
+ Barchart
+ 
 #### Conclusions
 # Key Findings
 1. Aircrafts with one engine are involved in most accidesnts. Aircraft manufactures that make aircraft with one ingine risk human life, this is because in an spect of engine technicality, a subsequent accident is more prevalent
